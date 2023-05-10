@@ -1,0 +1,14 @@
+:root {
+  --family: sans-serif;
+  --fs-sm: 14px;
+  --fs-md: 38px;
+  --fs-ml: 30px;
+  --fs-l: 22px;
+  --fs-s: 18px;
+  --fs-xl: 26px;
+  --fw-light: 300;
+  --fw-normal: 500;
+  --fw-bold: 800;
+
+  --radii: 0.5rem;
+}
